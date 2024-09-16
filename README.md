@@ -38,7 +38,7 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/zzCC-KueulAAAAAC/cars-lightning-mcqueen.gif" >
+<img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.33d4048f685aecb0a354310d7732ea34?rik=XGrOgCf2w5WDxA&riu=http%3a%2f%2fpa1.narvii.com%2f6311%2fa498d68866e58c6aaad50b1e747e84ffd7f87f4a_hq.gif&ehk=FUVkTM7Pe9xVC6gJjGvFBLST2RvZFfT3GX7dwYV1YSI%3d&risl=&pid=ImgRaw&r=0" >
 <br>
 
 
